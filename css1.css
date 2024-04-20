@@ -55,7 +55,6 @@ body{
     padding: 20px;
     width: 1330px;
     
-    
 }
 .home{
     color: white;
@@ -351,58 +350,27 @@ textarea{
 
 
 
-.top1{
-    
-    margin-left: 0px;
+
+
+.container-title{
+    width: 1330px;
+    margin-top: 40px;
     font-family: sans-serif;
-    list-style: none;
-    margin-top: 60px;
+    font-size: 40px;
+    font-weight: 900;
+}
+.title-topic{
+    margin-left: 560px;
     
-}
-.top2{
-    font-size: 35px;
-    margin-left: 0px;
-    font-family: sans-serif;
-    list-style: none;
-}
-
-.span-title-topic{
-    color: orangered;
-    margin: 0%;
-}
-
-.topa{
-    text-decoration: none;
-    color: black;
-    font-size: 60px;
-    font-family: fantasy;
-    
-    
-
-}
-.t10{
-    text-decoration: none;
-    font-size: 60px;
-    font-family: fantasy;
-    color: orangered;
 
 }
 .ethical{
-    text-decoration: none;
-    
+    margin-left: 300px;
+}
+.design{
     color: orangered;
 }
-.topa2{
-    text-decoration: none;
-    color: rgb(0, 0, 0);
-    font-size: 30px;
-    font-family: fantasy;
-    
 
-}
-.title-topic{
-    text-align: center;
-}
 
 
 
